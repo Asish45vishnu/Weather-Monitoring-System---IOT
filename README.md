@@ -7,7 +7,7 @@ Hardware Used :
 - BMP 180 (Pressure Sensor)
   
 Software:
-- Thingspeak by matlab
+- Thingspeak
 
 
 Image of Hardware Setup Development
